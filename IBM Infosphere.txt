@@ -1,0 +1,10 @@
+IBM InfoSphere Optim is a test data creating an application that increases performance, empower
+ collaboration across applications and databases across platforms.
+
+Features:
+
+- You can archive data from historical transaction records and decommissioned applications, 
+  decommissioned applications, and historical transaction records.
+- Comprehensive test data management capabilities.
+- It provides a single scalable archiving solution for the enterprise.
+
